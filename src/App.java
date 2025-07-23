@@ -1,5 +1,11 @@
-String greeting() { return "Hello, World!"; }
+import static java.lang.System.out;
 
 void main() {
-    System.out.println(greeting());
+    Scanner scanner = new Scanner(System.in);
+
+    out.print("Enter your name: ");
+    String name = scanner.nextLine();
+    out.println("Hello, " + name);
+
+    scanner.close();
 }
