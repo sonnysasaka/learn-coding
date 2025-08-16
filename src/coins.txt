@@ -1,0 +1,22 @@
+40
+46
+90 timer
+// -100 spent for synthesis
+// 100 improve timer
+90 for weight
+95 for divisible
+//-100 for 1h TV
+//-200 for 2h TV
+//200 guess the number game
+//100 problem4
+400 quadratic
+200 guess the number
+200 problem 5 & 11
+180 rolldie
+100, largest/smallest
+100, longest
+100, dart
+100, pi taylor series
+100, pascal
+100, multiplication table
+100, multiplication with function
