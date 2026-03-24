@@ -1,5 +1,5 @@
 void main() {
-    long j = 9000000000000000000L;
+    long j = 9223372036854770000L;
     while (j > 0) {
         if (j % 1000000000 == 0) {
             System.out.println(j);

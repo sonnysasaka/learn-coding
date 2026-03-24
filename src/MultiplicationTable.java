@@ -8,8 +8,8 @@ int width(int n) {
 }
 
 void main() throws Exception {
+    Scanner sc = Tools.scanner;
     println("What is n?!");
-    Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
     println("What is k?! ");
     int k = sc.nextInt();

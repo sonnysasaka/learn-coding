@@ -20,3 +20,5 @@
 100, pascal
 100, multiplication table
 100, multiplication with function
+200, lattice
+100, factors
