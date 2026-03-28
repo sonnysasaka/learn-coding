@@ -22,3 +22,4 @@
 100, multiplication with function
 200, lattice
 100, factors
+100, factors fast

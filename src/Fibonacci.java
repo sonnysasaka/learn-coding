@@ -13,7 +13,7 @@ void main(){
     println(fibo(8));
     println(fibo(9));
     println(fibo(10));*/
-    for (int i = 1; i <= 25; i++) {
+    for (int i = 1; i <= n; i++) {
         println(fibo(i));
     }
 }
