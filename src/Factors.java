@@ -4,13 +4,20 @@ void main() {
     long a = sc.nextLong();
     long b = 1;
     long c = 0;
-    while(b <= a) {
+    String d = "";
+    while(b <= Math.sqrt(a)) {
         if(a % b == 0) {
             print(b + " ");
             c++;
+            c++;
+            if(a/b == b) {
+                c--;
+            } else {
+                d = a/b + " " + d;
+            }
         }
         b++;
     }
-    println();
+    println(d);
     println(c + " factors");
 }
